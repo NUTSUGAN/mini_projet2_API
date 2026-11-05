@@ -1,5 +1,7 @@
 # Mini-projet 2 — PokéAPI
 
+**Application en ligne : [Explorateur Pokémon](https://mini-projet2-api.streamlit.app/)**
+
 Application Python et Streamlit pour découvrir les statistiques des Pokémon, comparer deux Pokémon, étudier un type et simuler un combat. Les noms et les types doivent être saisis en anglais (par exemple `pikachu`, `bulbasaur`, `fire`). Aucun compte ni clé API n'est nécessaire.
 
 ## Installation et lancement
